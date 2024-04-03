@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**zakxzx/zakxzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ 
+<a aling="left" rel="noreferrer" href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakxzx&layout=compact&exclude_repo=NPC_medico-FIVEM,Token-Grabber&theme=dark" alt="Top Langs"></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ </div>
+
+<div align="center">
+
+ 
+</div>
+
+ 
+ 
+ 
+ 
+<div align="center">
+
+<h3>Contact</h3>
+ 
+ 
+<a rel="noreferrer" href="https://discord.com/users/779358132551942174"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
+ 
+ 
+<div align="center">
+ 
+ 
+ <h3>Languages</h3>
+ <img align="center"src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,py,lua,git,cpp,cs"/>
+</div>
