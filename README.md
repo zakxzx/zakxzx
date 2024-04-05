@@ -29,5 +29,5 @@
  
  
  <h3>Languages</h3>
- <img align="center"src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,py,lua,git,cpp,cs"/>
+ <img align="center"src="https://skillicons.dev/icons?i=cpp,windows,asm"/>
 </div>
