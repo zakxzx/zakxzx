@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
  
 <a aling="left" rel="noreferrer" href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakxzx&layout=compact&exclude_repo=NPC_medico-FIVEM,Token-Grabber&theme=dark" alt="Top Langs"></a>
@@ -29,5 +27,5 @@
  
  
  <h3>Languages</h3>
- <img align="center"src="https://skillicons.dev/icons?i=cpp,windows,asm"/>
+ <img align="center"src="https://skillicons.dev/icons?i=cpp,windows,vs"/>
 </div>
