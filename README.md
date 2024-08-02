@@ -27,5 +27,5 @@
  
  
  <h3>Languages</h3>
- <img align="center"src="https://skillicons.dev/icons?i=cpp,windows,js"/>
+ <img align="center"src="https://skillicons.dev/icons?i=nodejs,js,html,css,express,git,vscode,linux,mysql,postgres,ubuntu"/>
 </div>
