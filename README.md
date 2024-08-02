@@ -20,7 +20,7 @@
 <h3>Contact</h3>
  
  
-<a rel="noreferrer" href="https://discord.com/users/779358132551942174"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
+<a rel="noreferrer" href="https://discord.com/users/1183055698909745163"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
  
  
 <div align="center">
