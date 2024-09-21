@@ -1,6 +1,6 @@
 <div align="center">
  
-<a aling="left" rel="noreferrer" href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakxzx&layout=compact&exclude_repo=NPC_medico-FIVEM,Token-Grabber&theme=dark" alt="Top Langs"></a>
+<a aling="left" rel="noreferrer" href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakxzx&langs_count=8&theme=dark" alt="Top Langs"></a>
 
 
  
