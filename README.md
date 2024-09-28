@@ -26,6 +26,6 @@
 <div align="center">
  
  
- <h3>Languages</h3>
+ <h3>Technologies</h3>
  <img align="center"src="https://skillicons.dev/icons?i=nodejs,php,js,ts,next,react,tailwind,html,css,express,git,vscode,linux,mysql,ubuntu"/>
 </div>
